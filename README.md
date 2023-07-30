@@ -1,1 +1,1 @@
-# java_challenges
+Java challenges.
