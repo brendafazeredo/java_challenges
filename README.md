@@ -1,3 +1,3 @@
 <h1>Java Challenges</h1>
-<h3>"About me", "About me 2" and "Account" are three file examples using Java.</h3>
-<p>About me is connected to a .json configuration, About me 2 and Account are files you can run completing your own information.</p>
+<h3>"About Me", "About Me 2", and "Account" are three example files using Java.</h3>
+<p>About Me is connected to a .json configuration, About Me 2 and Account are files you can run by filling in your own information.</p>
